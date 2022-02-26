@@ -1,0 +1,33 @@
+h1{
+    color: red;
+}
+h3{
+    color: red;
+    font-style: italic;
+}
+ol{
+    color: brown;
+}
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
+i{
+    text-decoration: underline;
+}
+b{
+    text-decoration: line-through;
+}
+
+ul{
+    color: brown;
+    letter-spacing: 5px;
+}
+
+p{
+    color: goldenrod;
+}
+a{
+    color: red;
+    font-style: italic;
+}
